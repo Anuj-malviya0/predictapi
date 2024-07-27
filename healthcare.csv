@@ -1,0 +1,101 @@
+Category,Item ID,Name,Quantity,Manufacturing Date,Expiry Date,Location,Status,Notes
+Medical Supplies,001,Aspirin,500,2023-01-15,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,002,Bandages,2000,2023-03-10,2026-03-10,Arvindo,In Stock, -
+Medical Supplies,003,Antibiotics,150,2023-02-20,2024-08-30,My Hospital,In Stock, -
+Medical Supplies,004,Gloves,1000,2023-04-05,2025-04-05,Arvindo,In Stock, -
+Medical Supplies,005,Face Masks,1200,2023-05-01,2025-05-01,My Hospital,In Stock, -
+Medical Supplies,006,Disinfectant,300,2023-06-15,2024-12-31,Arvindo,In Stock, -
+Medical Supplies,007,Alcohol Swabs,2500,2023-07-10,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,008,Bandages (Large),800,2023-08-20,2026-08-20,Arvindo,In Stock, -
+Medical Supplies,009,Antiseptic Cream,200,2023-09-05,2025-03-05,My Hospital,In Stock, -
+Medical Supplies,010,First Aid Kits,50,2023-10-15,2025-10-15,Arvindo,In Stock, -
+Medical Equipment,011,Stethoscope,30,2022-11-20,N/A,My Hospital,In Service, Last serviced: 2024-06-15
+Medical Equipment,012,Blood Pressure Monitor,15,2023-05-05,N/A,Arvindo,In Service, Last serviced: 2024-05-10
+Medical Equipment,013,Thermometer,25,2023-06-01,N/A,My Hospital,In Service, Last serviced: 2024-07-01
+Medical Equipment,014,Oxygen Tank,10,2023-07-15,N/A,Arvindo,In Service, Last serviced: 2024-08-01
+Medical Equipment,015,ECG Machine,5,2023-08-20,N/A,My Hospital,In Service, Last serviced: 2024-06-01
+Medical Equipment,016,X-Ray Machine,2,2023-09-10,N/A,Arvindo,In Service, Last serviced: 2024-07-15
+Medical Equipment,017,Ultrasound Machine,3,2023-10-05,N/A,My Hospital,In Service, Last serviced: 2024-05-01
+Medical Equipment,018,Defibrillator,4,2023-11-01,N/A,Arvindo,In Service, Last serviced: 2024-06-10
+Medical Equipment,019,Wheelchair,12,2023-12-01,N/A,My Hospital,In Service, Last serviced: 2024-08-20
+Medical Equipment,020,Hospital Bed,8,2023-12-15,N/A,Arvindo,In Service, Last serviced: 2024-09-15
+Medical Supplies,021,Antibiotics,120,2023-02-20,2024-08-30,Arvindo,In Stock, -
+Medical Supplies,022,Gloves,900,2023-04-05,2025-04-05,My Hospital,In Stock, -
+Medical Supplies,023,Face Masks,1000,2023-05-01,2025-05-01,Arvindo,In Stock, -
+Medical Supplies,024,Disinfectant,350,2023-06-15,2024-12-31,My Hospital,In Stock, -
+Medical Supplies,025,Alcohol Swabs,2400,2023-07-10,2025-01-15,Arvindo,In Stock, -
+Medical Supplies,026,Bandages (Large),850,2023-08-20,2026-08-20,My Hospital,In Stock, -
+Medical Supplies,027,Antiseptic Cream,220,2023-09-05,2025-03-05,Arvindo,In Stock, -
+Medical Supplies,028,First Aid Kits,55,2023-10-15,2025-10-15,My Hospital,In Stock, -
+Medical Supplies,029,Aspirin,600,2023-01-15,2025-01-15,Arvindo,In Stock, -
+Medical Supplies,030,Bandages,2100,2023-03-10,2026-03-10,My Hospital,In Stock, -
+Medical Equipment,031,Stethoscope,35,2022-11-20,N/A,Arvindo,In Service, Last serviced: 2024-07-15
+Medical Equipment,032,Blood Pressure Monitor,18,2023-05-05,N/A,My Hospital,In Service, Last serviced: 2024-06-10
+Medical Equipment,033,Thermometer,28,2023-06-01,N/A,Arvindo,In Service, Last serviced: 2024-07-20
+Medical Equipment,034,Oxygen Tank,12,2023-07-15,N/A,My Hospital,In Service, Last serviced: 2024-08-05
+Medical Equipment,035,ECG Machine,6,2023-08-20,N/A,Arvindo,In Service, Last serviced: 2024-07-01
+Medical Equipment,036,X-Ray Machine,3,2023-09-10,N/A,My Hospital,In Service, Last serviced: 2024-08-10
+Medical Equipment,037,Ultrasound Machine,4,2023-10-05,N/A,Arvindo,In Service, Last serviced: 2024-06-15
+Medical Equipment,038,Defibrillator,5,2023-11-01,N/A,My Hospital,In Service, Last serviced: 2024-09-01
+Medical Equipment,039,Wheelchair,15,2023-12-01,N/A,Arvindo,In Service, Last serviced: 2024-07-30
+Medical Equipment,040,Hospital Bed,10,2023-12-15,N/A,My Hospital,In Service, Last serviced: 2024-08-25
+Medical Supplies,041,Antibiotics,130,2023-02-20,2024-08-30,My Hospital,In Stock, -
+Medical Supplies,042,Gloves,950,2023-04-05,2025-04-05,Arvindo,In Stock, -
+Medical Supplies,043,Face Masks,1100,2023-05-01,2025-05-01,My Hospital,In Stock, -
+Medical Supplies,044,Disinfectant,400,2023-06-15,2024-12-31,Arvindo,In Stock, -
+Medical Supplies,045,Alcohol Swabs,2500,2023-07-10,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,046,Bandages (Large),900,2023-08-20,2026-08-20,Arvindo,In Stock, -
+Medical Supplies,047,Antiseptic Cream,230,2023-09-05,2025-03-05,My Hospital,In Stock, -
+Medical Supplies,048,First Aid Kits,60,2023-10-15,2025-10-15,Arvindo,In Stock, -
+Medical Supplies,049,Aspirin,550,2023-01-15,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,050,Bandages,2200,2023-03-10,2026-03-10,Arvindo,In Stock, -
+Medical Equipment,051,Stethoscope,40,2022-11-20,N/A,My Hospital,In Service, Last serviced: 2024-08-01
+Medical Equipment,052,Blood Pressure Monitor,20,2023-05-05,N/A,Arvindo,In Service, Last serviced: 2024-07-05
+Medical Equipment,053,Thermometer,30,2023-06-01,N/A,My Hospital,In Service, Last serviced: 2024-08-20
+Medical Equipment,054,Oxygen Tank,15,2023-07-15,N/A,Arvindo,In Service, Last serviced: 2024-09-10
+Medical Equipment,055,ECG Machine,7,2023-08-20,N/A,My Hospital,In Service, Last serviced: 2024-08-30
+Medical Equipment,056,X-Ray Machine,4,2023-09-10,N/A,Arvindo,In Service, Last serviced: 2024-09-05
+Medical Equipment,057,Ultrasound Machine,5,2023-10-05,N/A,My Hospital,In Service, Last serviced: 2024-07-01
+Medical Equipment,058,Defibrillator,6,2023-11-01,N/A,Arvindo,In Service, Last serviced: 2024-08-15
+Medical Equipment,059,Wheelchair,18,2023-12-01,N/A,My Hospital,In Service, Last serviced: 2024-09-25
+Medical Equipment,060,Hospital Bed,12,2023-12-15,N/A,Arvindo,In Service, Last serviced: 2024-10-05
+Medical Supplies,061,Antibiotics,140,2023-02-20,2024-08-30,Arvindo,In Stock, -
+Medical Supplies,062,Gloves,980,2023-04-05,2025-04-05,My Hospital,In Stock, -
+Medical Supplies,063,Face Masks,1150,2023-05-01,2025-05-01,Arvindo,In Stock, -
+Medical Supplies,064,Disinfectant,420,2023-06-15,2024-12-31,My Hospital,In Stock, -
+Medical Supplies,065,Alcohol Swabs,2600,2023-07-10,2025-01-15,Arvindo,In Stock, -
+Medical Supplies,066,Bandages (Large),950,2023-08-20,2026-08-20,My Hospital,In Stock, -
+Medical Supplies,067,Antiseptic Cream,240,2023-09-05,2025-03-05,Arvindo,In Stock, -
+Medical Supplies,068,First Aid Kits,65,2023-10-15,2025-10-15,My Hospital,In Stock, -
+Medical Supplies,069,Aspirin,600,2023-01-15,2025-01-15,Arvindo,In Stock, -
+Medical Supplies,070,Bandages,2300,2023-03-10,2026-03-10,My Hospital,In Stock, -
+Medical Equipment,071,Stethoscope,45,2022-11-20,N/A,Arvindo,In Service, Last serviced: 2024-09-01
+Medical Equipment,072,Blood Pressure Monitor,22,2023-05-05,N/A,My Hospital,In Service, Last serviced: 2024-08-15
+Medical Equipment,073,Thermometer,32,2023-06-01,N/A,Arvindo,In Service, Last serviced: 2024-09-20
+Medical Equipment,074,Oxygen Tank,17,2023-07-15,N/A,My Hospital,In Service, Last serviced: 2024-10-10
+Medical Equipment,075,ECG Machine,8,2023-08-20,N/A,Arvindo,In Service, Last serviced: 2024-09-30
+Medical Equipment,076,X-Ray Machine,5,2023-09-10,N/A,My Hospital,In Service, Last serviced: 2024-10-05
+Medical Equipment,077,Ultrasound Machine,6,2023-10-05,N/A,Arvindo,In Service, Last serviced: 2024-08-01
+Medical Equipment,078,Defibrillator,7,2023-11-01,N/A,My Hospital,In Service, Last serviced: 2024-10-15
+Medical Equipment,079,Wheelchair,20,2023-12-01,N/A,Arvindo,In Service, Last serviced: 2024-09-30
+Medical Equipment,080,Hospital Bed,14,2023-12-15,N/A,My Hospital,In Service, Last serviced: 2024-10-20
+Medical Supplies,081,Antibiotics,150,2023-02-20,2024-08-30,My Hospital,In Stock, -
+Medical Supplies,082,Gloves,1000,2023-04-05,2025-04-05,Arvindo,In Stock, -
+Medical Supplies,083,Face Masks,1200,2023-05-01,2025-05-01,My Hospital,In Stock, -
+Medical Supplies,084,Disinfectant,440,2023-06-15,2024-12-31,Arvindo,In Stock, -
+Medical Supplies,085,Alcohol Swabs,2700,2023-07-10,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,086,Bandages (Large),1000,2023-08-20,2026-08-20,Arvindo,In Stock, -
+Medical Supplies,087,Antiseptic Cream,250,2023-09-05,2025-03-05,My Hospital,In Stock, -
+Medical Supplies,088,First Aid Kits,70,2023-10-15,2025-10-15,Arvindo,In Stock, -
+Medical Supplies,089,Aspirin,650,2023-01-15,2025-01-15,My Hospital,In Stock, -
+Medical Supplies,090,Bandages,2400,2023-03-10,2026-03-10,Arvindo,In Stock, -
+Medical Equipment,091,Stethoscope,50,2022-11-20,N/A,My Hospital,In Service, Last serviced: 2024-10-01
+Medical Equipment,092,Blood Pressure Monitor,25,2023-05-05,N/A,Arvindo,In Service, Last serviced: 2024-10-10
+Medical Equipment,093,Thermometer,34,2023-06-01,N/A,My Hospital,In Service, Last serviced: 2024-10-20
+Medical Equipment,094,Oxygen Tank,20,2023-07-15,N/A,Arvindo,In Service, Last serviced: 2024-11-01
+Medical Equipment,095,ECG Machine,9,2023-08-20,N/A,My Hospital,In Service, Last serviced: 2024-11-10
+Medical Equipment,096,X-Ray Machine,6,2023-09-10,N/A,Arvindo,In Service, Last serviced: 2024-11-15
+Medical Equipment,097,Ultrasound Machine,7,2023-10-05,N/A,My Hospital,In Service, Last serviced: 2024-09-01
+Medical Equipment,098,Defibrillator,8,2023-11-01,N/A,Arvindo,In Service, Last serviced: 2024-10-30
+Medical Equipment,099,Wheelchair,22,2023-12-01,N/A,My Hospital,In Service, Last serviced: 2024-11-20
+Medical Equipment,100,Hospital Bed,16,2023-12-15,N/A,Arvindo,In Service, Last serviced: 2024-12-01
